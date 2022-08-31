@@ -1,0 +1,24 @@
+body{
+	background:  #999;
+	font-family: arial;
+}
+a{
+	color: white
+}
+header h1{
+	margin: 0;
+	display: inline;
+}
+}
+nav ul{
+	margin: 0;
+	display: inline;
+}
+
+nav ul li{
+	background: black;
+	color: white;
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 15px;
+}
